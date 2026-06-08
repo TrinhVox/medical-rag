@@ -1,0 +1,147 @@
+[
+  {
+    "question": "Among adults at high risk of type 2 diabetes, is social prescribing referral associated with a reduced incidence of type 2 diabetes over time?",
+    "ground_truth": "The association between social prescribing referral and type 2 diabetes incidence changed over time. Initially, SP was associated with increased risk within the first 0-2 years post-referral (aHR 1.09 [1.04-1.15]), but became protective after 3 or more years of follow-up (aHR 0.88 [0.80-0.97]). Similarly, by calendar year, SP was associated with increased risk in 2019 (aHR 1.67 [1.20-2.32]) but became protective by 2023 (aHR 0.84 [0.79-0.89]), suggesting the protective association emerged as services matured post-COVID and with longer follow-up.",
+    "pmid": "42225389"
+  },
+  {
+    "question": "What are the MM/PBSA-based binding free energies of astaxanthin with GLP-1 receptor, glucocorticoid receptor, and insulin receptor as determined by molecular dynamics simulations?",
+    "ground_truth": "The MM/PBSA-based binding free energies of astaxanthin were -45.86 kcal/mol for the glucagon-like peptide-1 receptor (GLP-1R), -45.08 kcal/mol for the glucocorticoid receptor, and -34.12 kcal/mol for the insulin receptor (INSR), indicating highly stable complexes across all three T2DM-associated receptors.",
+    "pmid": "42247987"
+  },
+  {
+    "question": "Can semaglutide cause acute-on-chronic liver failure (ACLF) in patients with underlying chronic liver disease?",
+    "ground_truth": "Yes, semaglutide can cause acute-on-chronic liver failure (ACLF) in patients with underlying chronic liver disease. This case report describes a 47-year-old male with a history of chronic hepatitis B who developed severe liver dysfunction approximately three months after initiating subcutaneous semaglutide therapy, which rapidly progressed to profound jaundice, coagulopathy, and hepatic encephalopathy. Drug-induced liver injury (DILI) was identified as the primary precipitating factor, and the final diagnosis was ACLF. The patient was successfully treated with discontinuation of semaglutide and comprehensive management including hepatoprotective therapy, artificial liver support, plasma exchange, and liver transplantation.",
+    "pmid": "42244313"
+  },
+  {
+    "question": "What is the pooled reduction in A1C achieved with continuous glucose monitoring in adults with type 2 diabetes in primary care settings at 6 to 8 months and 12 to 14 months?",
+    "ground_truth": "Based on the meta-analysis of 4 multisite RCTs involving 566 adults with type 2 diabetes in primary care settings, CGM achieved a pooled A1C reduction of -0.46% at 6 to 8 months and -0.33% at 12 to 14 months compared to controls.",
+    "pmid": "42206506"
+  },
+  {
+    "question": "Are serum IDE concentrations significantly different between Parkinson's disease patients and healthy controls in the Chinese Han population?",
+    "ground_truth": "Yes, serum IDE concentrations were significantly higher in Parkinson's disease patients compared to healthy controls (P = 0.015). Additionally, elevated IDE levels were negatively correlated with Mini-Mental State Examination scores (R = -0.230, P = 0.027) and positively associated with more severe symptoms, with logistic regression indicating that elevated serum IDE levels were associated with PD.",
+    "pmid": "42232650"
+  },
+  {
+    "question": "Does CPAP therapy slow the progression from prediabetes to type 2 diabetes mellitus?",
+    "ground_truth": "While CPAP therapy may improve parameters of glucose metabolism and insulin sensitivity in patients with OSA, the evidence that it slows progression from prediabetes to type 2 diabetes mellitus remains limited.",
+    "pmid": "42217267"
+  },
+  {
+    "question": "What is the diagnostic performance of combining BACE2 with HOMA-IR for identifying type 2 diabetes compared to BACE2 alone?",
+    "ground_truth": "Combining BACE2 with HOMA-IR markedly improved diagnostic performance, achieving an AUC of 0.912 compared to 0.712 for BACE2 alone.",
+    "pmid": "42221820"
+  },
+  {
+    "question": "Can renal replacement therapy be used as a rescue strategy in cases of refractory severe metabolic acidosis in diabetic ketoacidosis?",
+    "ground_truth": "Yes, based on this case report, renal replacement therapy (hemodialysis) can be used as a salvage method in cases of refractory severe metabolic acidosis in diabetic ketoacidosis. In this case, a 43-year-old woman with type 2 diabetes who had persistent severe metabolic acidosis despite initial treatment underwent hemodialysis, which helped correct severe acidosis and potassium deficits, ultimately leading to clinical improvement and discharge from the intensive care unit.",
+    "pmid": "42219533"
+  },
+  {
+    "question": "What was the proportional reporting ratio (PRR) for starvation ketoacidosis associated with tirzepatide in the FAERS database analysis?",
+    "ground_truth": "The PRR for starvation ketoacidosis associated with tirzepatide was 70.2 (chi\u00b2 1560.7; ROR 70.3 [95% CI 46.9-105.2]), representing the strongest signal among the four ketoacidosis-spectrum terms analyzed.",
+    "pmid": "42248357"
+  },
+  {
+    "question": "Did combining two digital diabetes self-care education programs (Virtual Making Moves with Diabetes followed by Technology-Based Education and Support) produce significantly better outcomes compared to either program delivered alone in adults with type 2 diabetes?",
+    "ground_truth": "No. All three digital intervention modalities (Virtual Making Moves with Diabetes alone, Technology-Based Education and Support alone, and the combination of both) led to statistically significant improvements in diabetes-related confidence, distress, and self-care behaviors, but no statistically significant superiority was observed among the intervention modalities when compared to each other.",
+    "pmid": "42224653"
+  },
+  {
+    "question": "What are the two dominant subtypes of MASLD identified based on their underlying causes and associated cardiovascular disease (CVD) risk?",
+    "ground_truth": "The two dominant subtypes of MASLD are: (1) a systemic metabolic dysfunction subtype driven by obesity and insulin resistance, which is associated with increased CVD risk; and (2) a subtype where familial and genetic factors predominate, characterized by impaired VLDL secretion, which is associated with reduced CVD risk.",
+    "pmid": "42241512"
+  },
+  {
+    "question": "In people with newly diagnosed type 2 diabetes, does early glycaemic control within the first 2 years after diagnosis affect long-term cancer risk compared to later glycaemic improvements?",
+    "ground_truth": "Yes, early glycaemic control significantly affects long-term cancer risk. A time-weighted mean HbA1c \u226553 mmol/mol (\u22657.0%) within the first 2 years after diagnosis was associated with a 30-75% relative higher risk of cancer. A 11 mmol/mol (1%) HbA1c reduction at 1-2 years was associated with a 6% relative lower cancer risk over a hypothetical 10-year window, whereas reductions after 5 years showed no significant risk differences. Earlier high HbA1c exposures contributed more strongly to cancer risk than later exposures, and individuals with better glycaemic management soon after diagnosis had lower cancer risk than those whose glycaemic management improved later, even when overall glycaemic burdens were comparable.",
+    "pmid": "42247170"
+  },
+  {
+    "question": "In Saudi Arabia, how does the rate of late-stage (Stage IV) diagnosis compare between early-onset colorectal cancer (EO-CRC) and average-onset colorectal cancer (AO-CRC)?",
+    "ground_truth": "Late-stage (Stage IV) diagnosis was significantly more frequent in EO-CRC compared to AO-CRC (53.0% vs. 42.3%; P = 0.009), indicating that patients with early-onset colorectal cancer were more likely to be diagnosed at an advanced stage.",
+    "pmid": "42241356"
+  },
+  {
+    "question": "What effect does tirzepatide have on daily insulin requirements in patients with type 1 diabetes mellitus?",
+    "ground_truth": "Based on the abstract, tirzepatide reduced daily insulin requirements by up to 38 units/day in patients with type 1 diabetes mellitus.",
+    "pmid": "42240053"
+  },
+  {
+    "question": "What is the test-retest stability of the Epworth Sleepiness Scale (ESS), Pittsburgh Sleep Quality Index (PSQI), and STOP-BANG questionnaire in patients with type 2 diabetes mellitus, as measured by Spearman's rho?",
+    "ground_truth": "All three questionnaires showed significant test-retest stability in patients with type 2 diabetes mellitus. Spearman's rho was 0.73 for the ESS, 0.78 for the PSQI, and 0.81 for the STOP-BANG (all p < 0.001), indicating good to strong temporal stability across a median interval of 68.5 days.",
+    "pmid": "42248733"
+  },
+  {
+    "question": "What was the discriminatory ability of the biomarker-enhanced model (integrating HbA1c, adropin, and oxLDL) for identifying accelerated arterial aging in young-to-middle-aged adults with type 2 diabetes?",
+    "ground_truth": "The biomarker-enhanced model integrating HbA1c, adropin, and oxLDL showed good discrimination for accelerated arterial aging with an AUC of 0.889 (95% CI 0.828-0.910), and explained 42% of the variance in age gap (adjusted R\u00b2=0.418), with acceptable internal calibration (slope 0.943).",
+    "pmid": "42218240"
+  },
+  {
+    "question": "Is a higher polygenic risk score for pulse pressure associated with dementia as a contributing cause of death in the REGARDS cohort?",
+    "ground_truth": "Yes, a higher polygenic risk score (PRS) for pulse pressure was significantly associated with increased risk of dementia as a contributing cause of death (DCCD), with a hazard ratio of 1.16 (95% CI 1.06-1.28, p < 1.76 \u00d7 10\u207b\u00b3), supporting shared genetic underpinnings between cardiometabolic disease and dementia.",
+    "pmid": "42234953"
+  },
+  {
+    "question": "Does genetic proxying of the GIPR antidiabetic drug target show a causal association with pneumonia risk in Mendelian Randomization analysis?",
+    "ground_truth": "Yes, Mendelian Randomization analysis identified a significant association between GIPR and pneumonia risk, with an odds ratio of 1.088 (95% CI: 1.022-1.159, P = 0.008), suggesting that perturbation of the GIPR drug target is causally associated with increased pneumonia risk. This was further supported by exploratory SMR analysis linking GIPR to pneumonia risk (OR = 0.662, 95% CI: 0.469-0.935, P = 0.020).",
+    "pmid": "42227366"
+  },
+  {
+    "question": "What is the prevalence of hypomagnesemia in adults with type 2 diabetes, and how does it relate to glycemic control as measured by HbA1c?",
+    "ground_truth": "In this cross-sectional study of 55 adults with type 2 diabetes, 21.8% (12 patients) had hypomagnesemia (serum magnesium below 1.70 mg/dL). Hypomagnesemia was significantly associated with poorer glycemic control, as patients with hypomagnesemia had higher mean HbA1c levels (9.72 \u00b1 2.85%) compared to those with normal magnesium levels (7.65 \u00b1 1.94%; p = 0.011). Additionally, serum magnesium showed a significant inverse correlation with HbA1c (r = -0.41), indicating that lower magnesium levels were associated with worse glycemic control.",
+    "pmid": "42220770"
+  },
+  {
+    "question": "Among participants with a baseline liver stiffness measurement of 8.0 kPa or more, what proportion experienced a clinically significant LSM decrease during follow-up?",
+    "ground_truth": "Among the 251 participants with a baseline LSM of 8.0 kPa or more, 110 (43.8%) had a clinically significant LSM decrease during follow-up, defined as a decrease from 8.0 kPa or more at baseline to less than 8.0 kPa at follow-up combined with a 30% or more change.",
+    "pmid": "42229495"
+  },
+  {
+    "question": "What was the final diagnosis confirmed by histopathological evaluation in a 55-year-old man who presented with synchronous small bowel obstruction and lower gastrointestinal hemorrhage?",
+    "ground_truth": "Histopathological evaluation of the surgical specimen after ileo-colonic resection confirmed a diagnosis of Crohn's ileitis.",
+    "pmid": "42222612"
+  },
+  {
+    "question": "Did improvements in CKD diagnostic testing and management seen during the original trial persist or strengthen 12 months after the main intervention components were withdrawn?",
+    "ground_truth": "Yes, improvements strengthened in five areas 12 months after the main intervention components were withdrawn, with only ongoing electronic technology tool access maintained. These included increased CKD diagnostic testing in those at risk (OR 1.4, CI 1.2-1.6), increased coded CKD diagnosis (OR 1.9, CI 1.6-2.2), increased uACR testing in patients with T2D (OR 1.9, CI 1.4-2.5), increased patients with CKD prescribed ACEI/ARBs (OR 1.8, CI 1.5-2.3), and increased patients with CKD prescribed statins (OR 1.8, CI 1.4-2.2), suggesting lasting benefits with ongoing electronic technology tool access.",
+    "pmid": "42210343"
+  },
+  {
+    "question": "Among people with type 2 diabetes, is cardiovascular disease associated with increased odds of fracture?",
+    "ground_truth": "Yes, among people with type 2 diabetes, both overall CVD (OR 1.20; 95% CI 1.15-1.26), clinical CVD phenotypes (OR 1.15; 95% CI 1.09-1.21), and subclinical CVD phenotypes (OR 1.22; 95% CI 1.17-1.28) were associated with higher odds of any fracture. Specific CVD phenotypes including atrial fibrillation/flutter, atherosclerosis, chronic kidney disease, heart failure, hypercholesterolemia, hypertension, and stroke showed positive associations, while acute myocardial infarction was inversely associated with fracture risk.",
+    "pmid": "42209810"
+  },
+  {
+    "question": "How does high-intensity interval training (HIIT) compare to routine pharmacological treatment in improving glycemic and lipid markers in patients with type 2 diabetes?",
+    "ground_truth": "Compared with routine pharmacological treatment, HIIT significantly improved fasting blood glucose (SMD = -1.24), HbA1c (SMD = -1.40), HOMA-IR (SMD = -1.03), fasting insulin (SMD = -0.97), HDL (SMD = 0.86), and triglycerides (SMD = -0.55), all with P < .05. No significant differences were observed for LDL or total cholesterol between HIIT and routine pharmacological treatment.",
+    "pmid": "42218635"
+  },
+  {
+    "question": "How do cultural and religious factors influence diabetes self-management behaviors among South Asian migrants with type 2 diabetes?",
+    "ground_truth": "Cultural and religious factors significantly impact self-management behaviors in South Asian migrants with type 2 diabetes in multiple ways. Five key themes were identified: (1) adapting to diabetes impacts food habits and dietary choices, (2) diabetes threatens cultural conventions and identity, (3) religious beliefs, practices, and prohibitions complicate diabetes management, (4) social support and awareness can promote self-care, and (5) individuals seek multiple sources for diabetes management. These complexities collectively create challenges for effective self-management in this population.",
+    "pmid": "42249458"
+  },
+  {
+    "question": "In patients with type 2 diabetes mellitus and chronic kidney disease, how strongly do the TG/HDL-C ratio and TyG index correlate with HbA1c levels?",
+    "ground_truth": "In patients with type 2 diabetes mellitus and chronic kidney disease, both the TG/HDL-C ratio and the TyG index showed strong positive correlations with HbA1c levels. The TG/HDL-C ratio had a correlation coefficient of r = 0.570, while the TyG index had a stronger correlation of r = 0.729, with both associations reaching high statistical significance (p <0.001). Additionally, the TyG index remained independently significant in linear regression analysis.",
+    "pmid": "42219846"
+  },
+  {
+    "question": "Is there a significant difference in perioperative glycemic control (blood glucose \u2264180 mg/dL) in patients with type 2 diabetes who continue versus temporarily hold weekly-dosed GLP-1 or GIP/GLP-1 receptor agonists prior to elective surgery?",
+    "ground_truth": "No, there was no statistically significant difference in perioperative glycemic control whether GLP-1 or GIP/GLP-1 receptor agonist therapy was continued or temporarily held preoperatively. In the overall cohort, 77.8% of patients in the pre-recommendation (continuing) group achieved glycemic control compared to 82.8% in the post-recommendation (holding) group (P = 0.443). In the matched cohort, rates were 80.7% versus 84.2% respectively (P = 0.824), neither result being statistically significant.",
+    "pmid": "42221394"
+  },
+  {
+    "question": "What main theme emerged from qualitative interviews with Swedish men with prediabetes regarding their attitudes toward managing diet and lifestyle?",
+    "ground_truth": "The main theme identified was 'Grasping the message about healthy habits but still doubting one's ability to change.' The men recognized the importance of healthy habits but doubted they could maintain lasting change, with this ambivalence caused by personal limitations and a focus on short-term goals rather than long-term strategies.",
+    "pmid": "42221014"
+  },
+  {
+    "question": "Which intervention showed the most substantial improvement in HbA1c and FBS levels at 12-month follow-up among patients with type 2 diabetes?",
+    "ground_truth": "The Motivational Interviewing (MI) group exhibited the most substantial improvement in HbA1c and FBS levels at 12-month follow-up, with all three intervention groups (family-centered empowerment model, collaborative care model, and motivational interviewing) demonstrating statistically significant reductions in FBS and HbA1c compared to the control group (p < 0.001).",
+    "pmid": "42236655"
+  }
+]

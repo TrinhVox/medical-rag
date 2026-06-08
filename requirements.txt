@@ -1,0 +1,27 @@
+# LLM + Transformers
+torch
+transformers
+accelerate
+sentence-transformers
+anthropic
+
+
+# Vector store
+chromadb
+
+# Sparse retrieval
+rank-bm25
+
+# Data
+datasets
+biopython          # PubMed Entrez API
+
+# Evaluation
+ragas
+
+# Utils
+numpy
+pandas
+tqdm
+python-dotenv
+streamlit
